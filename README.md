@@ -1,3 +1,6 @@
+可用于对比不同算法的loss曲线和reward
+
+
 # Deep Reinforcement Learning Algorithms
 ![logo](figures/logo.png)  
 &nbsp;  
